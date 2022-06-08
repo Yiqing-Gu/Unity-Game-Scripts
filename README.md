@@ -1,5 +1,5 @@
 # Unity-game-script
-This is the repository for past game scripts for Unity games. They belongs to a Same Game and a 2D racing game.
+This is the repository for past game scripts for Unity games.
 
 All game scipts are based on C# (C sharp).
 
