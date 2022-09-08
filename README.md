@@ -1,7 +1,7 @@
 # Unity-game-script
 This is the repository for past game scripts for Unity games.
 
-All game scipts are based on C# (C sharp).
+All game scripts are based on C# (C sharp).
 
 CoreLogic.cs and Player.cs were used in a same game. CoreLogic.cs defined rules about how to eliminate elements in the game.
 
