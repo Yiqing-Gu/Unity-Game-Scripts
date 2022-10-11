@@ -1,4 +1,5 @@
-# Unity-game-script
+# Unity Game Scripts
+
 This is the repository for game scripts used in Unity. They are a part of my work in projects when I worked in AE mobile.
 
 All scripts are based on C# (C sharp).
