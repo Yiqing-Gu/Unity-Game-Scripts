@@ -1,10 +1,10 @@
 # Unity-game-script
-This is the repository for past game scripts for Unity games.
+This is the repository for game scripts used in Unity. They were a part of my work in projects when I worked in AE mobile.
 
-All game scripts are based on C# (C sharp).
+All scripts are based on C# (C sharp).
 
-CoreLogic.cs and Player.cs were used in a same game. CoreLogic.cs defined rules about how to eliminate elements in the game.
+CoreLogic.cs is used in a SameGame (a game based on linking and elimination). This file was in charge of all phases from the game start to the game end including all necessary logics like how to eliminate elements in the game.
 
-Movement.cs, Vehicle.cs, and Player.cs served for a 2D racing game. Movement.cs read players' key strikes. Vehicle.cs defined how vehicles moved in the game (including collisions). Player.cs worked for player's status and positions in the game.
+Movement.cs, Vehicle.cs, and Player.cs serves for a 2D-racing game. Movement.cs reads players' key input. Vehicle.cs defines how vehicles move in the game and how to detect collisions. Player.cs is responsible for player's status and positions in the game.
 
-Store.cs is a script to load elements for building a store page.
+Store.cs is a script for building a store menu in the game through loading specific elements.
