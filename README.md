@@ -1,6 +1,6 @@
 # Unity Game Scripts
 
-This is the repository for game scripts used in Unity. They are a part of my work in projects when I worked in AE mobile.
+This is the repository for game scripts used in Unity. They are my past projects when I worked in AE mobile.
 
 All scripts are based on C# (C sharp).
 
